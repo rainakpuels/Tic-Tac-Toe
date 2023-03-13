@@ -19,9 +19,9 @@ If you want to run it locally:
     Run the "index.html" file in your broswer.
 
 # Roadmap of Future Improvemenets
-Usually, when Tic Tac Toe is played on paper, the winner strikes through their three in a row. It would be great to have this as part of the virtual game.
+Usually, when Tic Tac Toe is played on paper, the winner strikes through their three in a row. It would be great to have this as part of the virtual game. Perhaps this count be done by changing the whole block row of a win to one color, or automatically striking out the characters that get three in a row. 
 
-It would also be fun to replace the Xs and Os with emojis or other fun symbols.
+It would also be fun to replace the Xs and Os with emojis or other fun symbols. This wouldn't be too difficult, just replace the default 'X' and 'O' values in the code with image paths.
 
 # Liscence Information 
 [MIT License](https://github.com/rainakpuels/Tic-Tac-Toe/blob/default/LICENSE)
