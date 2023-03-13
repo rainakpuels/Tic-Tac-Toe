@@ -19,7 +19,7 @@ If you want to run it locally:
     Run the "index.html" file in your broswer.
 
 # Roadmap of Future Improvemenets
-Usually, when Tic Tac Toe is played on paper, the winner strikes through their three in a row. It would be great to have this as part of the virtal game.
+Usually, when Tic Tac Toe is played on paper, the winner strikes through their three in a row. It would be great to have this as part of the virtual game.
 
 It would also be fun to replace the Xs and Os with emojis or other fun symbols.
 
