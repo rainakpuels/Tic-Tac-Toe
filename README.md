@@ -1,8 +1,7 @@
 # Tic Tac Toe
 
-<p align="center"><img width="400" src="tic-tac-toe.png" alt="A pink background with nine white squares to form a tic tac toe board. In gray font, there are some Xs and Os to show a game in progress. At the bottom is a Restart button.> </p>
+<p align="center"><img width="400" src="tic-tac-toe.png" alt="A pink background with nine white squares to form a tic tac toe board. In gray font, there are some Xs and Os to show a game in progress. At the bottom is a Restart button."> </p><br>
 
-	
 # About
 
 [Click here to play Tic Tac Toe.](https://rainakpuels.github.io/Tic-Tac-Toe)
